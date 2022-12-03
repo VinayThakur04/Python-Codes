@@ -21,3 +21,4 @@ b = 'abcdefg'
 print(type(b))
 c = 100.4
 print(type(c))
+# hello
