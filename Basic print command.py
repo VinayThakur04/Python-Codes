@@ -12,3 +12,12 @@ n = int(input("n: "))
 n2 = int(input("n2: "))
 print(n+n2)                     #addition between n and n2
 print(n*n2)                     #multiplication between n and n2
+
+# check input is type
+
+a = 40
+print(type(a))
+b = 'abcdefg'
+print(type(b))
+c = 100.4
+print(type(c))
