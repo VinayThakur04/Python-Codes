@@ -21,3 +21,9 @@ b = 'abcdefg'
 print(type(b))
 c = 100.4
 print(type(c))
+
+# How to check length of given string
+
+s = str(input(''))
+print(len(s))
+
