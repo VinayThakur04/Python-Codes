@@ -27,4 +27,3 @@ print(type(c))
 s = str(input(''))
 print(len(s))
 
-print('hello 2')
