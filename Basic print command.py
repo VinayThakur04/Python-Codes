@@ -26,4 +26,4 @@ print(type(c))
 
 s = str(input(''))
 print(len(s))
-
+#Vinay Kumar Thakur
